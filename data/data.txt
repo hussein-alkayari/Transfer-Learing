@@ -1,0 +1,2 @@
+The dataset was retrieved from Kaggle.
+  Link: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
